@@ -1,0 +1,139 @@
+Species,Species_name,Code_ExpOp_GFS,Landclass_ExpOp_GFS,Flor_P1_b,Flor_p2_b,Flor_P3_b,Nest_per_ha,Total_score
+1,GroundNestingBumblebees,1,Afforestation,7.851851852,7.851851852,7.851851852,9.990125185,235.322948806662
+1,GroundNestingBumblebees,2,"Beaches, Sand Dunes/Plane",11.09090909,11.09090909,11.09090909,6.669231923,221.903534874357
+1,GroundNestingBumblebees,3,Coniferous Woodland,3.882352941,3.882352941,3.882352941,7.085162516,82.5213045943667
+1,GroundNestingBumblebees,4,Deciduous woodland,12,12,12,11.86421258,427.11165288
+1,GroundNestingBumblebees,5,Ditches,11.04761905,11.04761905,11.04761905,12.72767897,421.831645953769
+1,GroundNestingBumblebees,6,Fallow,12.13793103,12.13793103,12.13793103,10.73428757,390.876126542539
+1,GroundNestingBumblebees,7,Gardens,17.62162162,17.62162162,17.62162162,14.93166925,789.360677035468
+1,GroundNestingBumblebees,8,Golf Courses,8.592592593,8.592592593,8.592592593,8.503909517,219.211889781949
+1,GroundNestingBumblebees,9,Grass and Legume Ley,17.18518519,17.18518519,17.18518519,7.3213346,377.455472816864
+1,GroundNestingBumblebees,10,Grass Ley,5.043478261,5.043478261,5.043478261,6.1653344,93.2841900545864
+1,GroundNestingBumblebees,11,Grassy Field Edges,12.625,12.625,12.625,14.96000259,566.61009809625
+1,GroundNestingBumblebees,12,Hedgerows,17.14285714,17.14285714,17.14285714,15.84148422,814.704902607073
+1,GroundNestingBumblebees,13,Improved Meadow,7.555555556,7.555555556,7.555555556,7.376382229,167.197997200502
+1,GroundNestingBumblebees,14,Improved Permanent Grassland,4.588235294,4.588235294,4.588235294,4.6240008,63.6480110101327
+1,GroundNestingBumblebees,15,Moorland,14.75,14.75,14.75,9.908573143,438.45436157775
+1,GroundNestingBumblebees,16,Organic Ley,13.8,13.8,13.8,6.972699619,288.6697642266
+1,GroundNestingBumblebees,17,Poplar,11.2,11.2,11.2,4.6240008,155.36642688
+1,GroundNestingBumblebees,18,Salix,17.03225806,17.03225806,17.03225806,4.656111917,237.912299179756
+1,GroundNestingBumblebees,19,Salt Marsh,9.5,9.5,9.5,1.926667,54.9100095
+1,GroundNestingBumblebees,20,Scrub,15.31034483,15.31034483,15.31034483,12.7160022,584.059135623116
+1,GroundNestingBumblebees,21,Unimproved Meadow,15.89473684,15.89473684,15.89473684,12.77104983,608.97742865513
+1,GroundNestingBumblebees,22,Unimproved Permanent Grassland,14.11111111,14.11111111,14.11111111,10.45904943,442.766425835137
+1,GroundNestingBumblebees,23,Wetlands,10.46153846,10.46153846,10.46153846,4.587302381,143.970720859443
+1,GroundNestingBumblebees,24,Woodland Edges,15.31428571,15.31428571,15.31428571,15.19926189,698.297517493724
+1,GroundNestingBumblebees,25,Other1 (please state),18.85714286,18.85714286,18.85714286,17.51515455,990.857314692987
+1,GroundNestingBumblebees,26,Other2 (please state),16,16,16,11.560002,554.880096
+1,GroundNestingBumblebees,27,Berries (exc. Strawberries & Raspberries),15.51515152,15.51515152,15.51515152,5.955152545,277.185282181166
+1,GroundNestingBumblebees,28,Broad/Field Beans,16.82051282,16.82051282,16.82051282,5.266223133,265.741721164821
+1,GroundNestingBumblebees,29,Buckwheat,1.230769231,1.230769231,1.230769231,1.926667,7.11384738594923
+1,GroundNestingBumblebees,30,Cereal,1.023255814,1.023255814,1.023255814,2.711605407,8.32399799395976
+1,GroundNestingBumblebees,31,Linseed/Flax,11.69230769,11.69230769,11.69230769,4.306667412,151.0646414988
+1,GroundNestingBumblebees,32,Maize,2.857142857,2.857142857,2.857142857,0.917460476,7.86394693674966
+1,GroundNestingBumblebees,33,Oilseed Rape,17.33333333,17.33333333,17.33333333,4.6240008,240.44804155376
+1,GroundNestingBumblebees,34,Orchards,16.68571429,16.68571429,16.68571429,10.91777967,546.512856764371
+1,GroundNestingBumblebees,35,Organic Cereals,6.857142857,6.857142857,6.857142857,2.40833375,49.5428657132536
+1,GroundNestingBumblebees,36,Organic Oilseed Rape,17.5,17.5,17.5,5.678597474,298.126367385
+1,GroundNestingBumblebees,37,Peas,15.57142857,15.57142857,15.57142857,4.553940182,212.734062768197
+1,GroundNestingBumblebees,38,Potatoes,8.571428571,8.571428571,8.571428571,3.302857714,84.9306269271821
+1,GroundNestingBumblebees,39,Reed Canary Grass,3.428571429,3.428571429,3.428571429,6.1653344,63.4148681222126
+1,GroundNestingBumblebees,40,Strawberry/Raspberry in Polytunnels,11.76470588,11.76470588,11.76470588,2.848116435,100.521756509307
+1,GroundNestingBumblebees,41,Strawberry/Raspberry in the open,16.25,16.25,16.25,7.706668,375.700065
+1,GroundNestingBumblebees,42,Sugar Beet,0,0,0,0,0
+1,GroundNestingBumblebees,43,Vegetables,6.25,6.25,6.25,3.0826672,57.80001
+1,GroundNestingBumblebees,44,Other3 (please state),NA,NA,NA,NA,NA
+1,GroundNestingBumblebees,45,Other4 (please state),NA,NA,NA,NA,NA
+1,GroundNestingBumblebees,46,Urban,0,0,0,0,0
+2,GroundNestingSolitaryBees,1,Afforestation,8.869565217,8.869565217,8.869565217,9.714285714,258.484472030683
+2,GroundNestingSolitaryBees,2,"Beaches, Sand Dunes/Plane",12.95238095,12.95238095,12.95238095,12.6,489.59999991
+2,GroundNestingSolitaryBees,3,Coniferous Woodland,4.307692308,4.307692308,4.307692308,5.666666667,73.2307692403077
+2,GroundNestingSolitaryBees,4,Deciduous woodland,12.375,12.375,12.375,10.75862069,399.41379311625
+2,GroundNestingSolitaryBees,5,Ditches,10.6,10.6,10.6,11.84615385,376.70769243
+2,GroundNestingSolitaryBees,6,Fallow,12.15384615,12.15384615,12.15384615,12.61538462,459.976331383669
+2,GroundNestingSolitaryBees,7,Gardens,16.12903226,16.12903226,16.12903226,14.94117647,722.960151860949
+2,GroundNestingSolitaryBees,8,Golf Courses,8.571428571,8.571428571,8.571428571,12,308.571428556
+2,GroundNestingSolitaryBees,9,Grass and Legume Ley,11.36842105,11.36842105,11.36842105,6.933333333,236.463157828632
+2,GroundNestingSolitaryBees,10,Grass Ley,7.75,7.75,7.75,6.285714286,146.1428571495
+2,GroundNestingSolitaryBees,11,Grassy Field Edges,10.37037037,10.37037037,10.37037037,9.6,298.666666656
+2,GroundNestingSolitaryBees,12,Hedgerows,16.91428571,16.91428571,16.91428571,13.02857143,661.10693868049
+2,GroundNestingSolitaryBees,13,Improved Meadow,8.96,8.96,8.96,7.703703704,207.07555556352
+2,GroundNestingSolitaryBees,14,Improved Permanent Grassland,4.516129032,4.516129032,4.516129032,6.75862069,91.5684093431546
+2,GroundNestingSolitaryBees,15,Moorland,12.17391304,12.17391304,12.17391304,13.27272727,484.74308276585
+2,GroundNestingSolitaryBees,16,Organic Ley,9.230769231,9.230769231,9.230769231,9.142857143,253.186813197099
+2,GroundNestingSolitaryBees,17,Poplar,6,6,6,5.5,99
+2,GroundNestingSolitaryBees,18,Salix,13,13,13,7.25,282.75
+2,GroundNestingSolitaryBees,19,Salt Marsh,10.4,10.4,10.4,7.2,224.64
+2,GroundNestingSolitaryBees,20,Scrub,12.17391304,12.17391304,12.17391304,9.913043478,362.041587788733
+2,GroundNestingSolitaryBees,21,Unimproved Meadow,16.125,16.125,16.125,11.38461538,550.7307690075
+2,GroundNestingSolitaryBees,22,Unimproved Permanent Grassland,14,14,14,12.4137931,521.3793102
+2,GroundNestingSolitaryBees,23,Wetlands,8,8,8,6.4,153.6
+2,GroundNestingSolitaryBees,24,Woodland Edges,13.79310345,13.79310345,13.79310345,12.64,523.034482824
+2,GroundNestingSolitaryBees,25,Other1 (please state),15.2,15.2,15.2,12,547.2
+2,GroundNestingSolitaryBees,26,Other2 (please state),NA,NA,NA,NA,NA
+2,GroundNestingSolitaryBees,27,Berries (exc. Strawberries & Raspberries),12.76923077,12.76923077,12.76923077,6.2,237.507692322
+2,GroundNestingSolitaryBees,28,Broad/Field Beans,9.161290323,9.161290323,9.161290323,8.125,223.306451623125
+2,GroundNestingSolitaryBees,29,Buckwheat,8,8,8,8,192
+2,GroundNestingSolitaryBees,30,Cereal,1.828571429,1.828571429,1.828571429,8,43.885714296
+2,GroundNestingSolitaryBees,31,Linseed/Flax,12,12,12,4.615384615,166.15384614
+2,GroundNestingSolitaryBees,32,Maize,2.24,2.24,2.24,7.130434783,47.91652174176
+2,GroundNestingSolitaryBees,33,Oilseed Rape,16.22222222,16.22222222,16.22222222,8.275862069,402.758620636161
+2,GroundNestingSolitaryBees,34,Orchards,17.57142857,17.57142857,17.57142857,14.37037037,757.523809442698
+2,GroundNestingSolitaryBees,35,Organic Cereals,8.8,8.8,8.8,8,211.2
+2,GroundNestingSolitaryBees,36,Organic Oilseed Rape,17.25,17.25,17.25,8,414
+2,GroundNestingSolitaryBees,37,Peas,8,8,8,8.571428571,205.714285704
+2,GroundNestingSolitaryBees,38,Potatoes,8,8,8,6.5,156
+2,GroundNestingSolitaryBees,39,Reed Canary Grass,4,4,4,4,48
+2,GroundNestingSolitaryBees,40,Strawberry/Raspberry in Polytunnels,9.428571429,9.428571429,9.428571429,4,113.142857148
+2,GroundNestingSolitaryBees,41,Strawberry/Raspberry in the open,13.28,13.28,13.28,8.52173913,339.5060869392
+2,GroundNestingSolitaryBees,42,Sugar Beet,0,0,0,0,0
+2,GroundNestingSolitaryBees,43,Vegetables,7.6,7.6,7.6,6,136.8
+2,GroundNestingSolitaryBees,44,Other3 (please state),NA,NA,NA,NA,NA
+2,GroundNestingSolitaryBees,45,Other4 (please state),NA,NA,NA,NA,NA
+2,GroundNestingSolitaryBees,46,Urban,0,0,4,0,0
+8,TreeNestingBumblebees,1,Afforestation,4,4,2,8.991112667,89.91112667
+8,TreeNestingBumblebees,2,"Beaches, Sand Dunes/Plane",2,2,1.333333333,0,0
+8,TreeNestingBumblebees,3,Coniferous Woodland,1.333333333,1.333333333,16,10.27555733,191.810403486483
+8,TreeNestingBumblebees,4,Deciduous woodland,16,16,10.28571429,16.1840028,684.35211846936
+8,TreeNestingBumblebees,5,Ditches,10.28571429,10.28571429,12.57142857,1.5413336,51.0841993252952
+8,TreeNestingBumblebees,6,Fallow,12.57142857,12.57142857,20,1.284444667,57.9835021066159
+8,TreeNestingBumblebees,7,Gardens,20,20,4,19.26667,847.73348
+8,TreeNestingBumblebees,8,Golf Courses,4,4,17.33333333,2.568889333,65.0785297607704
+8,TreeNestingBumblebees,9,Grass and Legume Ley,17.33333333,17.33333333,3.428571429,0,0
+8,TreeNestingBumblebees,10,Grass Ley,3.428571429,3.428571429,14,0,0
+8,TreeNestingBumblebees,11,Grassy Field Edges,14,14,18.4,0,0
+8,TreeNestingBumblebees,12,Hedgerows,18.4,18.4,2.285714286,4.6240008,180.732374127035
+8,TreeNestingBumblebees,13,Improved Meadow,2.285714286,2.285714286,4.571428571,0,0
+8,TreeNestingBumblebees,14,Improved Permanent Grassland,4.571428571,4.571428571,16.8,0.550476286,14.2809276477567
+8,TreeNestingBumblebees,15,Moorland,16.8,16.8,8,3.853334,160.2986944
+8,TreeNestingBumblebees,16,Organic Ley,8,8,NA,1.5413336,24.6613376
+8,TreeNestingBumblebees,17,Poplar,NA,NA,20,0,0
+8,TreeNestingBumblebees,18,Salix,20,20,NA,1.5413336,61.653344
+8,TreeNestingBumblebees,19,Salt Marsh,NA,NA,16.44444444,0,0
+8,TreeNestingBumblebees,20,Scrub,16.44444444,16.44444444,20,3.0826672,163.038842994821
+8,TreeNestingBumblebees,21,Unimproved Meadow,20,20,18.4,1.5413336,90.01388224
+8,TreeNestingBumblebees,22,Unimproved Permanent Grassland,18.4,18.4,4,0,0
+8,TreeNestingBumblebees,23,Wetlands,4,4,20,0,0
+8,TreeNestingBumblebees,24,Woodland Edges,20,20,NA,16.1840028,647.360112
+8,TreeNestingBumblebees,25,Other1 (please state),NA,NA,NA,NA,NA
+8,TreeNestingBumblebees,26,Other2 (please state),NA,NA,17.33333333,NA,NA
+8,TreeNestingBumblebees,27,Berries (exc. Strawberries & Raspberries),17.33333333,17.33333333,16.8,0,0
+8,TreeNestingBumblebees,28,Broad/Field Beans,16.8,16.8,0,0,0
+8,TreeNestingBumblebees,29,Buckwheat,0,0,1,NA,NA
+8,TreeNestingBumblebees,30,Cereal,1,1,12,0,0
+8,TreeNestingBumblebees,31,Linseed/Flax,12,12,NA,0,0
+8,TreeNestingBumblebees,32,Maize,NA,NA,20,NA,NA
+8,TreeNestingBumblebees,33,Oilseed Rape,20,20,20,0,0
+8,TreeNestingBumblebees,34,Orchards,20,20,0,11.560002,462.40008
+8,TreeNestingBumblebees,35,Organic Cereals,0,0,18.4,0,0
+8,TreeNestingBumblebees,36,Organic Oilseed Rape,18.4,18.4,16,0,0
+8,TreeNestingBumblebees,37,Peas,16,16,NA,0,0
+8,TreeNestingBumblebees,38,Potatoes,NA,NA,NA,0,0
+8,TreeNestingBumblebees,39,Reed Canary Grass,NA,NA,17.33333333,NA,NA
+8,TreeNestingBumblebees,40,Strawberry/Raspberry in Polytunnels,17.33333333,17.33333333,18.66666667,0,0
+8,TreeNestingBumblebees,41,Strawberry/Raspberry in the open,18.66666667,18.66666667,NA,0,0
+8,TreeNestingBumblebees,42,Sugar Beet,NA,NA,12,NA,NA
+8,TreeNestingBumblebees,43,Vegetables,12,12,NA,NA,NA
+8,TreeNestingBumblebees,44,Other3 (please state),NA,NA,NA,NA,NA
+8,TreeNestingBumblebees,45,Other4 (please state),NA,NA,0,NA,NA
+8,TreeNestingBumblebees,46,Urban,0,0,,0,0
